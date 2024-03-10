@@ -1,0 +1,7 @@
+name: pulumi-apigateway-lambda
+runtime: go
+description: pulumi AWS API Gateway Lambda
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-go
